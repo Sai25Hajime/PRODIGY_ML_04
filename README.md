@@ -3,7 +3,7 @@ I have developed a hand gesture recognition model to identify and classify hand 
 
 # Dataset
 The dataset used was the LeapGestRecog dataset from Kaggle. It contains images of different hand gestures, which were used to train and evaluate the model.
-Here is the dataset used: https://www.kaggle.com/datasets/gti-upm/leapgestrecog?select=leapGestRecog
+Here is the dataset used: https://www.kaggle.com/datasets/gti-upm/leapgestrecog?select=leapGestRecog. Download the 2 GB directory and use it for the code.
 
 # Steps for using the dataset
 1. Download the directory from the above given website link.
