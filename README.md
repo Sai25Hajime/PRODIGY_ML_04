@@ -17,8 +17,13 @@ The code is inside the SVM_Cat_vs_Dog_Classification.ipynb file. Run the cells a
 
 # Knowledge Gained
 **1. Data Preprocessing:** I mastered the process of loading and preprocessing image data, including resizing images and converting them to grayscale to streamline the input for the model.
+
 **2. Data Handling:** I learned how to preprocess image data by converting it to grayscale, resizing it for consistency, and encoding labels for machine learning.
+
 **3. Convolutional Neural Networks (CNNs):** I designed and implemented a CNN architecture to effectively classify hand gestures. This included configuring convolutional and pooling layers for feature extraction.
+
 **4. Model Training:** I practiced training a deep learning model, adjusting parameters, and monitoring its performance to ensure it learned effectively.
+
 **5. Evaluation and Optimization:** I gained insights into evaluating model performance using accuracy and loss metrics and understood the importance of model validation.
+
 **6. Saving Models:** I learned how to save and load trained models, making them reusable for future tasks or deployment.
